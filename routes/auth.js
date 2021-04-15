@@ -20,7 +20,6 @@ router.post('/login', async (req, res) =>{
      * 
      */
     try{
-        console.log('a');
         const lookup = await User.find({"email": req.body.email});
         if(lookup.length >= 1){
             // Si encontramos el usuario.
