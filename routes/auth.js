@@ -20,16 +20,18 @@ router.post('/login', async (req, res) =>{
      * 
      */
     try{
+        console.log(req.body);
         const lookup = await User.find({"email": req.body.email});
         if(lookup.length >= 1){
             // Si encontramos el usuario.
             if(req.body.password == lookup[0].toObject().password){
-                res.json({login: 'valid', token: lookup[0].toObject().token});
+                console.log('Valid login for: '+req.body.email);
+                res.json({status: 200, login: 'valid', token: lookup[0].toObject().token});
             }else{
-                res.json({login: 'invalid'});
+                res.json({status: 400, login: 'invalid'});
             }
         }else{
-            res.json({login: 'notfound'});
+            res.json({status: 404, login: 'notfound'});
         }
     }catch(err){
         res.json(err);
@@ -71,13 +73,15 @@ router.post('/signup', async (req,res) =>{
 
             await usr.save();
             res.json({
-                signup: 'succesful',
+                status: 200,
+                signup: 'valid',
                 token: usr.token
             });
             console.log('User saved, response returned.');
         }else{
             // Se encontro al usuario, asi que no hacemos un registro, simplemente retornamos un objeto que diga que ya esta registrado.
             res.json({
+                status: 400,
                 signup: 'invalid'
             });
         }
