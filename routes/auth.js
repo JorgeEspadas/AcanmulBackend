@@ -77,7 +77,7 @@ router.post('/signup', async (req,res) =>{
                 signup: 'valid',
                 token: usr.token
             });
-            console.log('User saved, response returned.');
+            console.log('Sign up valid for: ' + usr.email);
         }else{
             // Se encontro al usuario, asi que no hacemos un registro, simplemente retornamos un objeto que diga que ya esta registrado.
             res.json({
