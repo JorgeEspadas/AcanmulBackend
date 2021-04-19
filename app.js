@@ -1,7 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 require('dotenv').config();
-const puerto = 5000;
+const puerto = process.env.SERVER_PORT;
 const app = express();
 const apiRoute = require('./routes/api');
 const authRoute = require('./routes/auth');

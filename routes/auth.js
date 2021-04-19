@@ -6,7 +6,6 @@ const jwt = require('jsonwebtoken');
 const { json } = require('body-parser');
 const secretkey = 'supersecretykeyalv.';
 
-
 router.get('/', (req,res) =>{
     res.json({
         message: 'Auth API Route File.'
@@ -91,6 +90,5 @@ router.post('/signup', async (req,res) =>{
     }
     
 });
-
 
 module.exports = router;
