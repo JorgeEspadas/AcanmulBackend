@@ -7,9 +7,8 @@ const { json } = require('body-parser');
 const secretkey = 'supersecretykeyalv.';
 
 router.get('/', (req,res) =>{
-    res.json({
-        message: 'Auth API Route File.'
-    });
+    res.status(401);
+    res.send('Access denied.');
 });
 
 router.post('/login', async (req, res) =>{
