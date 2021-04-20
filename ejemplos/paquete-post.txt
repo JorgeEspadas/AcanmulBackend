@@ -1,0 +1,35 @@
+{
+  "titulo": "Paquete 1",
+  "description": "Paquete test push.",
+  "images" : [{"url":"https://www.quo.es/wp-content/uploads/2019/10/7-impactantes-imagenes-de-animales-salvajes-en-libertad.jpg"},{"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/272px-Google_2015_logo.svg.png"}],
+  "ubicaciones" : [{
+        "_id": "607f2e19bc7be937405febc5",
+        "titulo": "Balamku",
+        "description": "Un pequeño yacimiento maya descubierto recientemente (1990), en el estado de Campeche, en México.",
+        "tipo": "zona_arqueologica",
+        "ubicacion": [
+            {
+                "_id": "607f2e19bc7be937405febc6",
+                "lat": "18.557700920036513",
+                "lng": "-89.94523864253026"
+            }
+        ],
+        "image": "https://i1.wp.com/www.turimexico.com/wp-content/uploads/2015/05/balamku.jpg?w=630&ssl=1",
+        "__v": 0
+    },
+    {
+        "_id": "607f36379fb9fa45b430ae66",
+        "titulo": "Calakmul",
+        "description": "Es un yacimiento arqueológico prehispánico maya, situado en el sureste del estado mexicano de Campeche.",
+        "tipo": "zona_arqueologica",
+        "ubicacion": [
+            {
+                "_id": "607f36379fb9fa45b430ae67",
+                "lat": "18.6171258263167",
+                "lng": "-89.54975247425722"
+            }
+        ],
+        "image": "http://viajar.especiales.elperiodico.com/50-paraisos-de-ensueno/files/2013/05/calakmul.jpg",
+        "__v": 0
+    }]
+}

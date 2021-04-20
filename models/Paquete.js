@@ -17,7 +17,10 @@ const PaqueteSchema = mongoose.Schema({
     images: [{
         url: String
     }],
-    ubicaciones: [ubicacionSchema]
+    ubicaciones: [{
+        type: mongoose.Schema.Types.ObjectId,
+        ref: 'Ubicaciones'
+    }]
 });
 
 module.exports = mongoose.model('Paquetes', PaqueteSchema);
