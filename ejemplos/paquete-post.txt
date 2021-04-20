@@ -1,3 +1,5 @@
+// No necesita pushear todo el objeto, solo el _id de referencia
+
 {
   "titulo": "Paquete 1",
   "description": "Paquete test push.",
