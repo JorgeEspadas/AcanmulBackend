@@ -1,10 +1,12 @@
 # Backend
 Endpoints soportados con funcionamiento.
-./auth/login
-./auth/signup
+-   ./auth/login
+-   ./auth/signup
+-   ./api/ubicacion <- requiere auth
+-   ./api/ubicacion/:ubicacionId <- requiere auth
 
 Endpoints soportados sin funcionamiento.
-./api
+-   ./api/paquetes
 
 # Notas
 Si, la cague con el .gitignore y se subieron todos los node_modules, por desgracia no se puede revertir el primer commit, asi que se quedara asi :v
