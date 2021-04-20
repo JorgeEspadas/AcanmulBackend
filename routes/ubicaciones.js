@@ -14,7 +14,7 @@ router.post('/', auth, async (req,res) =>{
         titulo: req.body.titulo,
         description: req.body.description,
         tipo: req.body.tipo,
-        ubicacion: [req.body.ubicaciones],
+        ubicacion: req.body.ubicacion,
         image: req.body.image
     });
     
