@@ -1,11 +1,11 @@
 const express = require('express');
 const { route } = require('./auth');
 const router = express.Router();
-const sec = require('../middleware/verifyToken');
+const auth = require('../middleware/verifyToken');
 
-router.get('/', sec, (req,res) =>{
+router.get('/', auth, (req,res) =>{
     res.json({
-        message: 'API ROOT'
+        message: 'The Application Programming Interface Root'
     });
 });
 

@@ -20,4 +20,4 @@ const PaqueteSchema = mongoose.Schema({
     ubicaciones: [ubicacionSchema]
 });
 
-module.exports('Paquetes', PaqueteSchema);
+module.exports = mongoose.model('Paquetes', PaqueteSchema);

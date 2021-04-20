@@ -30,4 +30,4 @@ const UbicacionSchema = mongoose.Schema({
     }
 });
 
-module.exports('Ubicaciones', UbicacionSchema);
+module.exports = mongoose.model('Ubicaciones', UbicacionSchema);
