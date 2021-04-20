@@ -19,9 +19,11 @@ router.post('/', auth, async (req,res) =>{
     });
     
     try{
-        const savedLocation = await ubicacion.save();
+        await ubicacion.save();
         res.status(200);
-        res.json(savedLocation);
+        res.json({
+            message: 'Location Saved!'
+        });
     }catch(err){
         res.json({
             message: 'Could not save the location.'
