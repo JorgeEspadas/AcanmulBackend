@@ -4,7 +4,7 @@ const router = express.Router();
 const auth = require('../middleware/verifyToken');
 const ubicacionRoute = require('./ubicaciones');
 
-router.use('/ubicaciones', ubicacionRoute);
+router.use('/ubicacion', ubicacionRoute);
 
 router.get('/', auth, (req,res) =>{
     res.json({

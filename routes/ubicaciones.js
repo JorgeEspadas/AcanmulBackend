@@ -3,10 +3,22 @@ const router = express.Router();
 const Ubicacion = require('../models/Ubicacion');
 const auth = require('../middleware/verifyToken');
 
-router.get('/', auth, (req,res) => {
-   res.json({
-    message: 'not coded yet.'
-   }); 
+router.get('/:ubicacionId', auth, async (req,res) => {
+   try{
+    const foundLocation = await Ubicacion.findById(req.params.ubicacionId);
+    res.json(foundLocation);
+}catch(err){
+    res.json(err);
+   }
+});
+
+router.get('/', auth, async (req,res) =>{
+    try{
+        const location = await Ubicacion.find();
+        res.json(location);
+    }catch(err){
+        res.json(err);
+    }
 });
 
 router.post('/', auth, async (req,res) =>{
