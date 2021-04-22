@@ -2,6 +2,6 @@
   "titulo": "Balamku",
   "description": "Un pequeño yacimiento maya descubierto recientemente (1990), en el estado de Campeche, en México.",
   "tipo": "zona_arqueologica",
-  "ubicaciones": {"lat": "18.557700920036513", "lng" : "-89.94523864253026"},
+  "ubicacion": {"lat": "18.557700920036513", "lng" : "-89.94523864253026"},
   "image": "https://i1.wp.com/www.turimexico.com/wp-content/uploads/2015/05/balamku.jpg?w=630&ssl=1"
 }
