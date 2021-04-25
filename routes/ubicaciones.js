@@ -7,6 +7,7 @@ router.get('/:ubicacionId', auth, async (req,res) => {
    try{
     const foundLocation = await Ubicacion.findById(req.params.ubicacionId);
     res.json(foundLocation);
+    console.log(foundLocation);
 }catch(err){
     res.json(err);
    }

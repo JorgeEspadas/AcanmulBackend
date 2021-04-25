@@ -9,6 +9,7 @@ router.get('/', auth, async(req,res) => {
         const allPackages = await Paquete.find();
         res.status(200);
         res.json(allPackages);
+        console.log('Sending response '+allPackages+' \nEnd of Response :::vvv');
     }catch(err){
         res.status(401);
         res.json(err);
@@ -20,6 +21,7 @@ router.get('/:paqueteId', auth, async(req,res) => {
         const foundPackage = await Paquete.findById(req.params.paqueteId);
         res.status(200);
         res.json(foundPackage);
+        console.log('Sending response '+foundPackage+' \nEnd of response :v');
     }catch(err){
         res.status(401);
         res.json(err);
