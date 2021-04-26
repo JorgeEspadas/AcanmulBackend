@@ -24,6 +24,7 @@ router.post('/login', async (req, res) =>{
             // Si encontramos el usuario.
             if(req.body.password == lookup[0].toObject().password){
                 console.log('Valid login for: '+req.body.email);
+                res.status(200);
                 res.json({status: 200, login: 'valid', token: lookup[0].toObject().token});
             }else{
                 res.json({status: 400, login: 'invalid'});

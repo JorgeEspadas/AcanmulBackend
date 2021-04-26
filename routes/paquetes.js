@@ -5,11 +5,10 @@ const auth = require('../middleware/verifyToken');
 
 router.get('/', auth, async(req,res) => {
     try{
-        console.log('Received get-all packages.');
         const allPackages = await Paquete.find();
         res.status(200);
         res.json(allPackages);
-        console.log('Sending response '+allPackages+' \nEnd of Response :::vvv');
+        console.log('Sent All Pkgs.');
     }catch(err){
         res.status(401);
         res.json(err);
@@ -21,7 +20,7 @@ router.get('/:paqueteId', auth, async(req,res) => {
         const foundPackage = await Paquete.findById(req.params.paqueteId);
         res.status(200);
         res.json(foundPackage);
-        console.log('Sending response '+foundPackage+' \nEnd of response :v');
+        console.log('Sent Pkg Id: '+ req.params.paqueteId);
     }catch(err){
         res.status(401);
         res.json(err);
@@ -40,6 +39,7 @@ router.post('/', auth, async (req, res) =>{
         const savedPackage = await tempPackage.save();
         res.status(200);
         res.json(savedPackage);
+        console.log('Saved Pkg with Id'+ savedPackage.id);
     }catch(err){
         res.json(err);
     }
