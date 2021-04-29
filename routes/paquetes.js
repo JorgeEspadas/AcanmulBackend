@@ -31,7 +31,7 @@ router.post('/', auth, async (req, res) =>{
     const tempPackage = new Paquete({
         titulo: req.body.titulo,
         descripcion: req.body.descripcion,
-        images: req.body.images,
+        imagen: req.body.imagen,
         ubicaciones: req.body.ubicaciones
     });
 

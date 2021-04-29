@@ -15,7 +15,7 @@ const PaqueteSchema = mongoose.Schema({
         type: String,
     },
     imagen:{
-        url: String
+        type: String,
     },
     ubicaciones: [{
         type: mongoose.Schema.Types.ObjectId,
