@@ -14,7 +14,7 @@ const PaqueteSchema = mongoose.Schema({
     descripcion: {
         type: String,
     },
-    images: [{
+    imagenes: [{
         url: String
     }],
     ubicaciones: [{
