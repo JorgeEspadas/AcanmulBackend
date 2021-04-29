@@ -14,9 +14,9 @@ const PaqueteSchema = mongoose.Schema({
     descripcion: {
         type: String,
     },
-    imagenes: [{
+    imagen:{
         url: String
-    }],
+    },
     ubicaciones: [{
         type: mongoose.Schema.Types.ObjectId,
         ref: 'Ubicaciones'

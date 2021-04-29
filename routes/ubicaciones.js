@@ -28,10 +28,14 @@ router.get('/', auth, async (req,res) =>{
 router.post('/', auth, async (req,res) =>{
     const ubicacion = new Ubicacion({
         titulo: req.body.titulo,
-        description: req.body.description,
+        significado: req.body.significado,
+        acceso: req.body.acceso,
+        horario: req.body.horario,
+        costo_de_acceso: req.body.costo_de_acceso,
+        servicios_cercanos: req.body.servicios_cercanos,
         tipo: req.body.tipo,
         ubicacion: req.body.ubicacion,
-        image: req.body.image
+        imagen: req.body.imagen
     });
     
     try{
@@ -43,7 +47,7 @@ router.post('/', auth, async (req,res) =>{
         console.log('Saved Location with Id: '+ubicacion.id);
     }catch(err){
         res.json({
-            message: 'Could not save the location.'
+            message: 'Could not save the location. ' + err
         });
         console.log('Location sent by: '+req.user.token+' could not be saved.');
     }
