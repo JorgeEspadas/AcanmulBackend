@@ -6,6 +6,14 @@ const mongoose = require('mongoose');
  * tipo: (ex. zona_arqueologica)
  * ubicacion: (su latitud y longitud, se tiene que buscar con google maps.)
  * image: una unica imagen de desripcion del lugar.
+ * ----------------------------------
+ * hay mas campos pero ya me vale pito, esta en espanol, leelo xdddddddddddd
+ * 
+ * acceso : como llegar xd
+ * significado : el significado del lugar :v
+ * horario : pos el horario de operacion del lugar >:v
+ * servicios cercanos: que si hay banio xd
+ * costo de acceso: ps no es gratis`
  */
 
 const UbicacionSchema = mongoose.Schema({
@@ -13,7 +21,19 @@ const UbicacionSchema = mongoose.Schema({
         type: String,
         required: true
     },
-    description: {
+    significado: {
+        type: String
+    },
+    acceso: {
+        type: String
+    },
+    horario: {
+        type: String
+    },
+    costo_de_acceso: {
+        type: String
+    },
+    servicios_cercanos: {
         type: String
     },
     tipo: {
@@ -24,7 +44,7 @@ const UbicacionSchema = mongoose.Schema({
         lat : String,
         lng : String
     }],
-    image: {
+    imagen: {
         type: String,
         required: true
     }

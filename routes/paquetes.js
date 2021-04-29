@@ -5,7 +5,7 @@ const auth = require('../middleware/verifyToken');
 
 router.get('/', auth, async(req,res) => {
     try{
-        const allPackages = await Paquete.find();
+        const allPackages = await Paquete.find().populate('ubicaciones').exec();
         res.status(200);
         res.json(allPackages);
         console.log('Sent All Pkgs.');
