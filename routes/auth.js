@@ -14,6 +14,8 @@ router.get('/', (req,res) =>{
 
 router.get('/user/:token', auth, async (req,res) =>{
     try{
+        // see if the user has the same token to send their data,
+        // do not send if token does not match.
         const locatedUser = await User.find({"token":req.params.token});
         if(locatedUser.length>=1){
             res.status(200);
