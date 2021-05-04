@@ -8,7 +8,7 @@ router.get('/', auth, async(req,res) => {
         const allPackages = await Paquete.find().populate('ubicaciones').exec();
         res.status(200);
         res.json(allPackages);
-        console.log('Sent All Pkgs.');
+        console.log('Sent All Pkgs to: ' + req.header('auth-token'));
     }catch(err){
         res.status(401);
         res.json(err);

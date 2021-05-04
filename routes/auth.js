@@ -5,10 +5,29 @@ const { route } = require('./api');
 const jwt = require('jsonwebtoken');
 const { json } = require('body-parser');
 const secretkey = 'supersecretykeyalv.';
+const auth = require('../middleware/verifyToken');
 
 router.get('/', (req,res) =>{
     res.status(401);
     res.send('Access denied.');
+});
+
+router.get('/user/:token', auth, async (req,res) =>{
+    try{
+        const locatedUser = await User.find({"token":req.params.token});
+        if(locatedUser.length>=1){
+            res.status(200);
+            res.json({
+                name: locatedUser[0].toObject().name,
+                email: locatedUser[0].toObject().email
+            });
+        }
+    }catch(err){
+        res.status(404);
+        res.json({
+            message: "Not found?"
+        });
+    }
 });
 
 router.post('/login', async (req, res) =>{
