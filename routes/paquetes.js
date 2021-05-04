@@ -8,7 +8,7 @@ router.get('/', auth, async(req,res) => {
         const allPackages = await Paquete.find().populate('ubicaciones').exec();
         res.status(200);
         res.json(allPackages);
-        console.log('Sent All Pkgs to: ' + req.header('auth-token'));
+        //console.log('Sent All Pkgs to: ' + req.header('auth-token'));
     }catch(err){
         res.status(401);
         res.json(err);
@@ -20,7 +20,7 @@ router.get('/:paqueteId', auth, async(req,res) => {
         const foundPackage = await Paquete.findById(req.params.paqueteId);
         res.status(200);
         res.json(foundPackage);
-        console.log('Sent Pkg Id: '+ req.params.paqueteId);
+        //console.log('Sent Pkg Id: '+ req.params.paqueteId);
     }catch(err){
         res.status(401);
         res.json(err);
