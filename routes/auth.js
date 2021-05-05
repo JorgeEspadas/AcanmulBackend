@@ -12,26 +12,6 @@ router.get('/', (req,res) =>{
     res.send('Access denied.');
 });
 
-router.get('/user/:token', auth, async (req,res) =>{
-    try{
-        // see if the user has the same token to send their data,
-        // do not send if token does not match.
-        const locatedUser = await User.find({"token":req.params.token});
-        if(locatedUser.length>=1){
-            res.status(200);
-            res.json({
-                name: locatedUser[0].toObject().name,
-                email: locatedUser[0].toObject().email
-            });
-        }
-    }catch(err){
-        res.status(404);
-        res.json({
-            message: "Not found?"
-        });
-    }
-});
-
 router.post('/login', async (req, res) =>{
     /*
      *  Recibimos los datos de login, evaluamos si existe y coincide la contrasena.
