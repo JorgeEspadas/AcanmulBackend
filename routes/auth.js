@@ -16,7 +16,6 @@ router.post('/login', async (req, res) =>{
     /*
      *  Recibimos los datos de login, evaluamos si existe y coincide la contrasena.
      *  De existir regresamos el token, si no regresamos un error. 
-     * 
      */
     try{
         console.log(req.body);
@@ -25,10 +24,9 @@ router.post('/login', async (req, res) =>{
             // Si encontramos el usuario.
             if(req.body.password == lookup[0].toObject().password){
                 console.log('Valid login for: '+req.body.email);
-                res.status(200);
-                res.json({status: 200, login: 'valid', token: lookup[0].toObject().token});
+                res.status(200).json({status: 200, user:[{name: lookup[0].toObject().name, email: lookup[0].toObject().email , token: lookup[0].toObject().token, role: lookup[0].toObject().role}]});
             }else{
-                res.json({status: 400, login: 'invalid'});
+                res.status(400).json({message: "Access Denied"});
             }
         }else{
             res.json({status: 404, login: 'notfound'});
@@ -57,7 +55,8 @@ router.post('/signup', async (req,res) =>{
         name: req.body.name,
         email: req.body.email,
         password: req.body.password,
-        phone: req.body.phone
+        phone: req.body.phone,
+        role: req.body.role
     });
 
     // validamos que no exista el registro en la base de datos.
