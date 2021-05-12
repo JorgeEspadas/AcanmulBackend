@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "609c3fb711eef41d583ddf5a"
+  },
+  "name": "John Doe",
+  "email": "john@email.com",
+  "password": "d1e576b71ccef5978d221fadf4f0e289",
+  "phone": "5550129678",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c3IiOnsiX2lkIjoiNjA5YzNmYjcxMWVlZjQxZDU4M2RkZjVhIiwibmFtZSI6IkpvaG4gRG9lIiwiZW1haWwiOiJqb2huQGVtYWlsLmNvbSIsInBhc3N3b3JkIjoiZDFlNTc2YjcxY2NlZjU5NzhkMjIxZmFkZjRmMGUyODkiLCJwaG9uZSI6IjU1NTAxMjk2NzgifSwiaWF0IjoxNjIwODUyNjYzfQ.2mQRJioAy1sJuDmI2jAOJ9rOqeylaWEqcVhT3h5O_ZU",
+  "__v": 0
+}]

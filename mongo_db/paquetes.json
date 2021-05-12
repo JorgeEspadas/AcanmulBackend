@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "608f51ea68a27e32605216aa"
+  },
+  "ubicaciones": [
+    {
+      "$oid": "608e132deb6d1721a0de8f0e"
+    },
+    {
+      "$oid": "608e0a40eb6d1721a0de8f0a"
+    },
+    {
+      "$oid": "608e241aeb6d1721a0de8f16"
+    }
+  ],
+  "titulo": "Paquete Calakmul",
+  "descripcion": "Este paquete se lleva a cabo en el municipio de Calakmul, en esta zona se encuentra la Zona Arqueologica de Calakmul donde se pueden apreciar durante el viaje el avistamiento de animales de la region como jaguares, aves, entre otros, Posteriormente se visita la Zona Arqueologica de Balamku y finalmente al atardecer, entre las 5:00pm y 6:00pm se puede apreciar el espectaculo del volcan de los murcielagos en una cueva ubicada en las cercanias de la zona, este fenomeno solo se puede experimentar aqui en la region y en Malasia  ",
+  "imagen": "https://mexicotravelchannel.com.mx/wp-content/uploads/2021/01/calakmul-sigue-las-rutas-selvaticas-de-este-destino-en-campeche-mexico-travel-channel.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608f562668a27e32605216af"
+  },
+  "ubicaciones": [
+    {
+      "$oid": "608e17a225cb3f2e983bbbcb"
+    },
+    {
+      "$oid": "608e161025cb3f2e983bbbc9"
+    },
+    {
+      "$oid": "608f53aa68a27e32605216ab"
+    },
+    {
+      "$oid": "608f547f68a27e32605216ad"
+    }
+  ],
+  "titulo": "Paquete Zona Xpujil",
+  "descripcion": "La ruta de zona de Xpujil, comprende de una visita guiada por las siguientes zonas arqueologicas: Zona Arqueologica de Becàn, Zona Arqueologica de Chicanna, Zona Arqueologica de Xpujil, Zona Arqueologica del hormiguero, en cada Zona arqueologica tendremos una permanencia de 1 hora para poder apreciar todo lo que tiene para ofrecer cada lugar",
+  "imagen": "https://i.pinimg.com/originals/60/4f/cb/604fcb931d02abb99caa9630938bafe7.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608f583768a27e32605216b0"
+  },
+  "ubicaciones": [
+    {
+      "$oid": "608e21d0eb6d1721a0de8f14"
+    },
+    {
+      "$oid": "608e2a4f25cb3f2e983bbbd9"
+    }
+  ],
+  "titulo": "Paquete Isla Aguada",
+  "descripcion": "La ruta de Isla aguada comprende: Paseo en lancha para avistamiento de delfines, Visita al museo faro de Isla Aguada y visitar la playa para nadar. En los mismos muelles del lugar te encontrarás a los propios pescadores ofreciendo tours en lancha para que puedas apreciar toda la laguna como tal. \nSi aceptas ese recorrido, el costo de es de aproximadamente $900.00 por dos horas para máximo ocho personas; en caso de que no se junte la cantidad de personas, puedes negociar con los pescadores y llegar a un precio justo. Podrás visitar la Isla de los Pájaros, que es un enorme nido de aves donde verás decenas de fragatas, garzas y pelícanos tomando el sol o en busca de su comida. También habrá uno que otro delfín paseando y nadando por esas aguas, auqnue depende también de la temporada en la que vayas, mayo y junio son los meses en los que más se pueden apreciar. \nDe ahí, la lancha hará rumbo hacia cayo Arena, una playa que se caracteriza por contener demasiadas conchas. Puedes explorar la isla por cuenta propia y broncearte bajo el sol o divertirte en el agua. Cabe mencionar que el horario de éstos recorridos inicia a las 9:00 am y finaliza a las 4:00 pm de lunes a domingo. \n Igual se puede entrar al museo-faro de Isla Aguada que este lleno de tesoros encontrados en el mar, igual cuenta con una biblioteca y un ciber",
+  "imagen": "https://www.puntomedio.mx/wp-content/uploads/2021/01/WhatsApp-Image-2021-01-29-at-7.35.37-PM.jpeg",
+  "__v": 0
+}]

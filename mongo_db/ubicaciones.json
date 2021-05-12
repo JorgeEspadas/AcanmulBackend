@@ -1,0 +1,617 @@
+[{
+  "_id": {
+    "$oid": "608e07a7eb6d1721a0de8f08"
+  },
+  "titulo": "Edzna",
+  "significado": "Itzá es el nombre de un linaje de origen chontal que se estableció en el sitio. Por extensión, los pobladores de otros asentamientos se referían a los habitantes de esta antigua ciudad maya como “Itzáes”; de aquí proviene su nombre: Ytzná / Edzná: “Casa de los Itzáes”.",
+  "acceso": "Se localiza a 55 km al sureste de la ciudad de Campeche. Se puede llegar por las Carreteras Federales 180 y 261; desde Champotón vía Haltunchén y Hool, y proseguir hacia el oriente; o desde Campeche pasando por Chiná, Pocyaxum, Nohacal y Tixmucuy. Si se viaja desde el sur de Yucatán, habrá que desviarse en el poblado de Cayal. El visitante puede arribar al sitio por medio del transporte público desde Campeche, sin embargo, este deberá caminar unos 300 metros a la entrada del sitio",
+  "horario": "Lunes a domingo de 8 a 17 h.",
+  "costo_de_acceso": "65",
+  "servicios_cercanos": "Unidad de Servicios, venta de publicaciones y reproducciones, sanitarios, estacionamiento, guía, señalización externa y cédulas restrictivas e informativas.",
+  "tipo": "zona_arqueologica",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e07a7eb6d1721a0de8f09"
+      },
+      "lat": "19.597341126494424",
+      "lng": "-90.23052358773222"
+    }
+  ],
+  "imagen": "https://blog.seccionamarilla.com.mx/wp-content/uploads/2017/11/Zona-Arqueol%C3%B3gica-Edzn%C3%A1-portada-770x578.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e0a40eb6d1721a0de8f0a"
+  },
+  "titulo": "Balamku",
+  "significado": "El nombre del sitio deriva de las palabras mayas Balam (jaguar) y Kú (templo), significando “Templo del Jaguar”. Dicho nombre alude a uno de los jaguares plasmados en el friso de estuco modelado y policromado que corona la Sub-estructura I-A del Grupo Central, que caracteriza a esta ciudad prehispánica.",
+  "acceso": "El acceso se realiza por un camino pavimentado de 3 km., situado al noreste del ejido de Conhuás, en el kilómetro 93 de la Carretera Federal Escárcega-Chetumal (Carretera No. 186).",
+  "horario": "Lunes a Domingo de 08:00 a 17:00 horas.",
+  "costo_de_acceso": "45",
+  "servicios_cercanos": "Unidad de servicios, sanitarios y estacionamiento. Cédulas externas.",
+  "tipo": "zona_arqueologica",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e0a40eb6d1721a0de8f0b"
+      },
+      "lat": "18.557700920036513",
+      "lng": "-89.94523864253026"
+    }
+  ],
+  "imagen": "https://i1.wp.com/www.turimexico.com/wp-content/uploads/2015/05/balamku.jpg?fit=630%2C320&ssl=1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e10f5eb6d1721a0de8f0c"
+  },
+  "titulo": "Dzibilnocac",
+  "significado": "Dzibilnocac es un nombre maya que significa “Bóveda pintada o bóveda con escritura”.",
+  "acceso": "Desde la ciudad capital de Campeche se toma la Carretera Federal No. 262 hasta el poblado de Hopelchén, con una distancia de 90 km; de ahí se dirige hasta Dzibalchén distante 40 km y posteriormente 20 km hasta Vicente Guerrero (Iturbide), comunidad adjunta a la zona arqueológica maya de Dzibilnocac.",
+  "horario": "Lunes a domingo de 8 a 17 h.",
+  "costo_de_acceso": "0",
+  "servicios_cercanos": "Unidad de Servicios, sanitarios, estacionamiento, señalización externa y cédulas restrictivas e informativas.",
+  "tipo": "zona_arqueologica",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e10f5eb6d1721a0de8f0d"
+      },
+      "lat": "19.57963412821314",
+      "lng": "-89.59480313247636"
+    }
+  ],
+  "imagen": "https://www.mexicoescultura.com/galerias/espacios/fotogalerias/Campeche_Dzibilnocac_01.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e132deb6d1721a0de8f0e"
+  },
+  "titulo": "Calakmul",
+  "significado": "Calakmul significa en maya “Dos Montículos Adyacentes” (Ca dos, Lak adyacentes, Mul montículo artificial o pirámide), nombre que hace referencia a las dos grandes estructuras que dominan la selva.",
+  "acceso": "Desde la ciudad de Campeche, se realiza tomando la Carretera No. 261, rumbo al sur, hasta llegar a la ciudad de Escárcega. De ahí se toma la desviación, carretera Escárcega-Chetumal (Carretera No. 186). En el kilómetro 95, pasando el ejido Conhuás, se toma la desviación hacia el sur por un camino pavimentado y después de 60 kilómetros se llega al sitio. El visitante puede arribar al sitio por medio del transporte público, sin embargo, éste deberá caminar a la entrada de la zona.",
+  "horario": "Lunes a domingo de 8:00 a 17:00 h. Último acceso a las 16 hrs.",
+  "costo_de_acceso": "80",
+  "servicios_cercanos": "Unidad de Servicios, venta de publicaciones y reproducciones, sanitarios, estacionamiento, señalización externa y cédulas restrictivas e informativas.",
+  "tipo": "zona_arqueologica",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e132deb6d1721a0de8f0f"
+      },
+      "lat": "18.6171258263167",
+      "lng": "-89.54975247425722"
+    }
+  ],
+  "imagen": "https://mexicotravelchannel.com.mx/wp-content/uploads/2021/01/calakmul-sigue-las-rutas-selvaticas-de-este-destino-en-campeche-mexico-travel-channel.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e1ae2eb6d1721a0de8f10"
+  },
+  "titulo": "Ich ha lol xhaan",
+  "significado": "Es un parque ecológico con pequeños riachuelos, lagos y manantiales para disfrutar de la naturaleza, también tiene actividades de aventura como tirolesas y senderos en la selva.",
+  "acceso": "es una reserva ecológica ubicada en el km 27 de la carretera Campeche- Mérida, en el estado de Campeche.",
+  "horario": "Lunes a Domingo de 9:00 am a 5:00pm",
+  "costo_de_acceso": "35",
+  "servicios_cercanos": "Unidad de Servicios, sanitarios, estacionamiento y señalización externa.",
+  "tipo": "ojo_de_agua",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e1ae2eb6d1721a0de8f11"
+      },
+      "lat": "19.942146118440277",
+      "lng": "-90.37515674150997"
+    }
+  ],
+  "imagen": "https://www.piesviajeros.mx/wp-content/uploads/2019/03/21415020_1956979657920224_1364934620351001399_o.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e1e9beb6d1721a0de8f12"
+  },
+  "titulo": "El remate",
+  "significado": "Es un lugar ecoturístico para visitar con toda la familia si lo que buscas es un día de esparcimiento y diversión en contacto con la naturaleza. En este lugar podrás disfrutar de un ojo de agua conectado con el mar por un canal artificial de ocho kilómetros hecho hace muchos años para facilitar el comercio de esta zona con otros lugares.",
+  "acceso": "De la ciudad de Calkiní se puede tomar la carretera a isla Arena; son 14 km de camino pavimentado y entonces se toma al Oeste de la ex-hacienda Tankuche.",
+  "horario": "Lunes a Domingo de 9:00 am a 5:00pm",
+  "costo_de_acceso": "30",
+  "servicios_cercanos": "Unidad de Servicios, sanitarios, estacionamiento y señalización externa.",
+  "tipo": "ojo_de_agua",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e1e9beb6d1721a0de8f13"
+      },
+      "lat": "20.53485065287737",
+      "lng": "-90.37027057237144"
+    }
+  ],
+  "imagen": "https://en-yucatan.com.mx/fotos/campeche/el-remate-campeche.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e21d0eb6d1721a0de8f14"
+  },
+  "titulo": "Paseo con Delfines - Isla Aguada",
+  "significado": "Isla Aguada es un pequeño puerto de pescadores de aproximadamente 5 mil habitantes y se encuentra rodeado por las aguas del golfo de México y la laguna de términos y se encuentra ubicada entre Sabancuy y Cd del Carmen, Isla Aguada ofrece al visitante kilómetros de playas vírgenes para disfrutar del mar, la  arena y el sol sin ser molestado por vendedores ambulantes o grandes aglomeraciones de otros centros turísticos. El paseo inicio partiendo del muelle de pescadores ubicado junto al malecón de Isla Aguada, lo primero que se realiza durante el recorrido es una actividad llamada “búsqueda de delfines” donde podrás encontrar estos hermosos ",
+  "acceso": "Se encuentra a 46 kilómetros al noreste de Ciudad del Carmen por la carretera número 180.",
+  "horario": "9:00am a 4:00pm de lunes a domingo",
+  "costo_de_acceso": "1000",
+  "servicios_cercanos": "Unidad de Servicios, sanitarios, estacionamiento y señalización externa.",
+  "tipo": "atraccion_turistica",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e21d0eb6d1721a0de8f15"
+      },
+      "lat": "18.781965036914265",
+      "lng": "-91.48498682751955"
+    }
+  ],
+  "imagen": "https://www.puntomedio.mx/wp-content/uploads/2021/01/WhatsApp-Image-2021-01-29-at-7.35.37-PM.jpeg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e241aeb6d1721a0de8f16"
+  },
+  "titulo": "Cueva de los Murcielagos - Calakmul",
+  "significado": "En el mundo sólo existen dos volcanes de murciélagos, uno es el que se encuentra en Calakmul, Campeche y el otro en Malasia. En el volcán de los murciégalos en Calakmul, según estimaciones de científicos, habitan cerca de dos millones de ejemplares divididos en nueve especies. Recibe el nombre de volcán de los muerciélagos debido a que entre las 5 y 6 de la tarde miles de estas especies salen de la cueva en gran número, como si fuera un auténtico volcán de lava. Los miles de murciégalos ascienden hasta la cima formando vórtices, al mismo tiempo que se escucha el zumbido de sus aleteos.",
+  "acceso": "Para llegar a este sitio hay que ubicar la señalización de la entrada en el kilómetro 106. Si vas en auto ten en cuenta que el lugar para estacionar no es muy amplio pues al no tener tanta difusión, no está habilitado para la visita masiva de la gente.",
+  "horario": "Todos los dias de 4:00 pm a 7:00 pm",
+  "costo_de_acceso": "0",
+  "servicios_cercanos": "Ninguno",
+  "tipo": "atraccion_turistica",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e241aeb6d1721a0de8f17"
+      },
+      "lat": "18.53135397155653",
+      "lng": "-89.82318129700273"
+    }
+  ],
+  "imagen": "https://i0.wp.com/noticieros.televisa.com/wp-content/uploads/2017/05/cueva-de-los-murcielagos.jpg?w=1018&ssl=1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e2586eb6d1721a0de8f18"
+  },
+  "titulo": "Bahia Tortugas",
+  "significado": "Si sueñas con olvidarte por un momento del ajetreo del fin de semana, el trabajo, las responsabilidades y todo lo que te aqueja, te tenemos un lugar imprescindible que tienes que realizar en tu próxima visita al Estado de Campeche para relajarte, comer rico, admirar el bello atardecer, sentir cómo corre por tu rostro la brisa del mar y refrescarte con sus frescas aguas; algunos le llaman el “Tulum” de Campeche, se trata de Bahía de Tortugas, un hermoso lugar que te dejará un buen sabor de boca, literalmente.",
+  "acceso": "Km. 101-102 Carr. Carmen-Campeche Sitio de Playa, Champotón 24401 México",
+  "horario": "Todos los dias de 9:00 am a 5:00 pm",
+  "costo_de_acceso": "150",
+  "servicios_cercanos": "Restaurante, palapas, camastros, alberca ",
+  "tipo": "atraccion_turistica",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e2586eb6d1721a0de8f19"
+      },
+      "lat": "19.108694606287024",
+      "lng": "-91.01205645436609"
+    }
+  ],
+  "imagen": "https://media-cdn.tripadvisor.com/media/photo-s/06/d0/05/fe/bahia-de-tortugas.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e2762eb6d1721a0de8f1a"
+  },
+  "titulo": "Playa de Sabancuy",
+  "significado": "Esta considerada como uno de los destinos mas visitados de las playas de Campeche debido a la baja profundidad de agua de sus playas y su suave oleaje ",
+  "acceso": "Esta playa se encuentra muy cerca de Champotón, al suroeste del estado de Campeche, específicamente a 85 kilómetros de Ciudad del Carmen.",
+  "horario": "Todos los dias de 9:00 am a 5:00 pm",
+  "costo_de_acceso": "100",
+  "servicios_cercanos": "Pesca deportiva, buceo y veleo",
+  "tipo": "atraccion_turistica",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e2762eb6d1721a0de8f1b"
+      },
+      "lat": "18.977942137431928",
+      "lng": "-91.21523136075793"
+    }
+  ],
+  "imagen": "https://media-cdn.tripadvisor.com/media/photo-s/07/c4/26/98/sabancuy.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e2966eb6d1721a0de8f1c"
+  },
+  "titulo": "Pomuch - Dia de Muertos",
+  "significado": "Se ubica en esta pequeña localidad maya del estado de Campeche, al sureste de México, y en él se celebra un ritual único cada año con motivo del Día de Muertos que consiste en la exhumación de sus familiares fallecidos para limpiar sus huesos y dejar que se aireen. Es algo verdaderamente impresionante. Lo que pasa en Pomuch en la previa al Día de Muertos no es más que su forma particular de rendir tributo a los que ya no están, trayéndolos de nuevo a su día a día. La Limpieza de Muertos tiene orígenes prehispánicos, proviene del Hanal Pixán, la Comida de Ánimas de origen maya, quienes creían en la resurrección de las personas, en el ka’ a siijil o renacer. Tambien se puede encontrar el famoso Pan artesanal en Pomuch, el Pan «Pichón» o «Sandwichón» que es un pan «fránces» o barra, por dentro tiene jamón, queso, chile jalapeño y ¡lo mejor!: horneado en horno de piedra y al carbón",
+  "acceso": "Esta playa se encuentra muy cerca de Champotón, al suroeste del estado de Campeche, específicamente a 85 kilómetros de Ciudad del Carmen.",
+  "horario": "Todos los dias de 9:00 am a 5:00 pm",
+  "costo_de_acceso": "100",
+  "servicios_cercanos": "Pesca deportiva, buceo y veleo",
+  "tipo": "atraccion_turistica",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e2966eb6d1721a0de8f1d"
+      },
+      "lat": "20.13192915325752",
+      "lng": "-90.17778678772211"
+    }
+  ],
+  "imagen": "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2017/10/31/571297.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e2f13eb6d1721a0de8f1e"
+  },
+  "titulo": "Hecechalkan - Cochinita",
+  "significado": "No hay mejor desayuno campechano que unos tacos o tortas de cochinita pibil; y no hay mejor lugar para hacerlo que en la plaza principal de Hecelchakán acompañado de una rica agua de horchata. El sabor que le agrega ser cocinado bajo tierra más una receta de gran tradición nos dejará listos para la aventura por las tierras mayas de Campeche.",
+  "acceso": "La ciudad se encuentra a 60 kilómetros al norte de Campeche, se comunica con ella a través de la Carretera Federal 180, que continúa hacia al norte enlazándola por Calkiní y con Mérida, Yucatán",
+  "horario": "Todos los dias de 7:00 am a 3:00 pm",
+  "costo_de_acceso": "0",
+  "servicios_cercanos": "Venta de Comida, Baños, Tiendas",
+  "tipo": "atraccion_turistica",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e2f13eb6d1721a0de8f1f"
+      },
+      "lat": "20.184475053622716",
+      "lng": "-90.14129648691083"
+    }
+  ],
+  "imagen": "https://cdn.mexicodestinos.com/lugares/hecelchakan-princ-min.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e3198eb6d1721a0de8f20"
+  },
+  "titulo": "Becal, Calkini - Sombreros de Jipi Japa",
+  "significado": "La comunidad de Bécal se encuentra en Calkiní, a tan solo dos horas y media de la ciudad de Campeche, en este pueblo se confeccionan los famosos sombreros de Jipi Japa, y es considerada como la capital de éste. \n En Bécal se encuentran las cuevas originales donde los grupos de artesanos hacen sombreros de palma de jipi. También se encuentra en el centro de la población el monumento del sombrero. \n El proceso de elaboración es completamente manual por lo que hace que el producto tenga más valor artesanal. Se comienza cortando los cogollos de la palma de piji y azotarlos para que se abran, después se rayan con una aguja las fibras de la hoja y se separan unas de otras. Ya que está rayado el guano se hierve con azufre  aproximadamente hora y media para que se ponga blanco, luego se seca al sol sobre una cuerda. Ahí el guano se enrolla a lo largo y queda listo para tejerlo.",
+  "acceso": "La localidad de Bécal del municipio de Calkiní del estado de Campeche está situada a un costado de la carretera que comunica la ciudad de Campeche con Mérida, Yucatán; es la última localidad  entre la frontera de los estados de Campeche y Yucatán. Colinda al sur con Halachó, Yucatán y esta al norte de Calkiní Campeche.",
+  "horario": "Todos los dias de 8:00 am a 8:00 pm",
+  "costo_de_acceso": "0",
+  "servicios_cercanos": "Venta de Comida, Baños, Tiendas",
+  "tipo": "atraccion_turistica",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e3198eb6d1721a0de8f21"
+      },
+      "lat": "20.445207235428416",
+      "lng": "-90.02798035696938"
+    }
+  ],
+  "imagen": "https://descubro.mx/wp-content/uploads/2016/09/97127608-600x449.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e13f825cb3f2e983bbbc5"
+  },
+  "titulo": "Hochob",
+  "significado": "Hochob significa “mazorcas de maíz”, topónimo dado al sitio a fines del siglo XIX, cuando Teobert Maler lo descubrió y registró el nombre de la zona arqueológica.",
+  "acceso": "Desde la ciudad capital de Campeche, se conduce sobre la Carretera Federal No. 261, con dirección al noreste hasta el poblado de Dzibalchén. Al llegar al entronque se toma el desvío hacía Chenkó; poco antes de llegar se dirige al camino que concluye en la zona arqueológica de Hochob de la cultura maya, distante 4 km del entronque.",
+  "horario": "Lunes a domingo de 8 a 17 h.",
+  "costo_de_acceso": "45",
+  "servicios_cercanos": "Unidad de Servicios, venta de publicaciones y reproducciones, sanitarios, estacionamiento, teléfono satelital, señalización externa y cédulas restrictivas e informativas.",
+  "tipo": "zona_arqueologica",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e13f825cb3f2e983bbbc6"
+      },
+      "lat": "19.408784451376462",
+      "lng": "-89.77372785425457"
+    }
+  ],
+  "imagen": "https://www.goapp.mx/files/articulos/big/1487866816-Hochob.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e14eb25cb3f2e983bbbc7"
+  },
+  "titulo": "El tigre",
+  "significado": "“El Tigre” ha sido identificado por diversos autores como el Itzamkanac de las fuentes históricas. El nombre con el que se le conoce actualmente corresponde al del ejido en el que se encuentra. Acalán, o “Lugar de Canoas”, es el nombre con el que se conocía a la provincia prehispánica del grupo maya chontal asentado a orillas del Río Candelaria.",
+  "acceso": "Se puede realizar por lancha, partiendo del poblado de Candelaria sobre el río del mismo nombre, o bien, por carretera, sobre el camino Escárcega–Villahermosa, a la altura del poblado Nuevo Coahuila, tomando la desviación hacia Monclova (kilómetro 13.5), que conduce directamente al sitio. Desde Candelaria son aproximadamente 51 kilómetros, hay que seguir la carretera hacia los poblados Estado de México-Monclova, y entre Estado de México y Monclova existe una desviación de 9.3 Kilómetros hacia el sitio arqueológico de El Tigre.",
+  "horario": "Lunes a domingo de 8 a 17 h.",
+  "costo_de_acceso": "45",
+  "servicios_cercanos": "Unidad de servicios, sanitarios, estacionamiento, señalización externa y cédulas restrictivas e informativas.",
+  "tipo": "zona_arqueologica",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e14eb25cb3f2e983bbbc8"
+      },
+      "lat": "18.120814999182656",
+      "lng": "-90.83708506077316"
+    }
+  ],
+  "imagen": "https://sic.cultura.gob.mx/imagenes_cache/zona_arqueologica_144_g_70751.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e161025cb3f2e983bbbc9"
+  },
+  "titulo": "Hormiguero",
+  "significado": "Hormiguero toma su nombre de un campamento chiclero que existió cerca de los vestigios arqueológicos en la década de los 30, del siglo pasado, cuando Karl Ruppert y John Denison recorrieron la región.",
+  "acceso": "Se localiza en el sector oriente de la Reserva de la Biosfera de Calakmul, a 7 kilómetros, al sur del ejido Echeverría Castellot y aproximadamente a 23 kilómetros al suroeste del poblado de Xpuhil.",
+  "horario": "Lunes a domingo de 8 a 17 h.",
+  "costo_de_acceso": "0",
+  "servicios_cercanos": "Unidad de Servicios, sanitarios, estacionamiento, señalización externa y cédulas restrictivas e informativas.",
+  "tipo": "zona_arqueologica",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e161025cb3f2e983bbbca"
+      },
+      "lat": "18.408872082923693",
+      "lng": "-89.49063980124666"
+    }
+  ],
+  "imagen": "https://mxcity.mx/wp-content/uploads/2020/10/b7b99359e566563ed434463968f3595f.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e17a225cb3f2e983bbbcb"
+  },
+  "titulo": "Xpujil",
+  "significado": "El nombre del sitio se debe a la antigua existencia de una planta llamada “cola de gato” (xpuh, en maya yucateco); il es un sufijo que indica “lugar de”). La planta crecía alrededor de una aguada hoy prácticamente desaparecida por el crecimiento urbano.",
+  "acceso": "El poblado Xpujil se localiza sobre la Carretera Federal No. 186, Escárcega-Chetumal. El sitio arqueológico se encuentra muy cerca del poblado del mismo nombre, y a 9 km., al oriente de la zona arqueológica de Chicanná hay un camino que llega hasta Xpuhil. Otra de las opciones es ir de la ciudad de Campeche a través de la Carretera Federal No. 180 hasta el poblado de Hopelchén, y de ahí al entronque con la Carretera Estatal No. 269, que comunica con el poblado de Xpujil, en la unión con la Carretera Federal No. 186. El visitante puede arribar al sitio por medio del transporte público, sin embargo, este deberá caminar a la entrada del sitio.",
+  "horario": "Lunes a domingo de 8 a 17 h.",
+  "costo_de_acceso": "55",
+  "servicios_cercanos": "Unidad de servicios, venta de publicaciones y reproducciones, sanitarios, estacionamiento, señalización externa y cédulas restrictivas e informativas.",
+  "tipo": "zona_arqueologica",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e17a225cb3f2e983bbbcc"
+      },
+      "lat": "18.510597720079133",
+      "lng": "-89.40579656840544"
+    }
+  ],
+  "imagen": "https://i.pinimg.com/originals/60/4f/cb/604fcb931d02abb99caa9630938bafe7.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e1de825cb3f2e983bbbcd"
+  },
+  "titulo": "Uayamon",
+  "significado": "Construido en 1700, Hacienda Uayamon, a Luxury Collection Hotel, Uayamon refleja un ambiente sofisticado rodeado de la belleza natural de Campeche. Descubra las cercanas ruinas mayas de Campeche, con siglos de antigüedad. Pasee por nuestros jardines privados a la luz de las velas en un paseo romántico y luego cene rodeado del lujo en nuestro opulento restaurante. Con maderas oscuras y mobiliario colonial, nuestro bar ofrece un lugar refinado para socializar con una copa de vino en la mano. Las suites estilo hacienda cuentan con detalles bien pensados, como pisos del siglo XIX y techos altos. Descanse plácidamente con las lujosas camas con colchones con la parte superior acolchada y el refrescante aire acondicionado. Algunas suites cuentan incluso con una piscina profunda privada. Aproveche los planificadores de eventos en las instalaciones para personalizar su ocasión especial, ya sea una boda al aire libre, una reunión familiar o un retiro corporativo para promover el trabajo en equipo. Permita que nuestro personal excepcional de Hacienda Uayamon, a Luxury Collection Hotel, Uayamon le ayude a crear una escapada transformadora en Campeche, México.",
+  "acceso": "Se encuentra ubicado a unos 30 kilómetros del Aeropuerto de la ciudad San Francisco de Campeche, o solo Campeche, como comúnmente se conoce a la ciudad, declarada Patrimonio Cultural de la Humanidad en 1999. ",
+  "horario": "Lunes a domingo de 8 a 17 h.",
+  "costo_de_acceso": "100",
+  "servicios_cercanos": "Hospedaje, Restaurante, Spa, Costo de habitaciones desde $5,000 hasta loas $12,000",
+  "tipo": "haciendas",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e1de825cb3f2e983bbbce"
+      },
+      "lat": "19.665483851149638",
+      "lng": "-90.41996024725238"
+    }
+  ],
+  "imagen": "https://campeche.travel/wp-content/uploads/2020/03/01-7.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e213525cb3f2e983bbbcf"
+  },
+  "titulo": "Tankuché",
+  "significado": "Fue una de las más importantes haciendas en el estado productora de fibra de henequén y de ganado vacuno. Uno de sus últimos dueños fue Alonso Aarrigonaga, la cual la adquirió como herencia de su padre Manuel Arrigonaga. Esta hacienda ostenta una arquitectura de estilo francés, simulando una fortificación medieval. La fachada de la casa principal está compuesta de un nivel rematado.",
+  "acceso": "No Disponible",
+  "horario": "No Disponible",
+  "costo_de_acceso": "0",
+  "servicios_cercanos": "No Disponible",
+  "tipo": "haciendas",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e213525cb3f2e983bbbd0"
+      },
+      "lat": "20.50846871448893",
+      "lng": "-90.24376283189342"
+    }
+  ],
+  "imagen": "http://campeche.s3.amazonaws.com/wp-content/uploads/2018/07/20062049/Campeche-Hoy-Tankuché.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e21df25cb3f2e983bbbd1"
+  },
+  "titulo": "San Luis Carpizo",
+  "significado": "Hacienda San Luis Carpizo se encuentra ubicada en el municipio de Champotón a tan solo 15 km de la cabecera municipal sobre la carretera 286, rumbo a la ciudad del Carmen. Construida a finales del siglo xix perteneció al conjunto de haciendas propiedad de Don José María Carpizo. Con una superficie de 200 ha., su actividad era una mezcla de agricultura con ganadería, con cría de ganado bovino a gran escala. El palo de tinte fue su principal actividad pero ante el auge del henequén cambió a la extracción de esta fibra",
+  "acceso": "No Disponible",
+  "horario": "No Disponible",
+  "costo_de_acceso": "0",
+  "servicios_cercanos": "No Disponible",
+  "tipo": "haciendas",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e21df25cb3f2e983bbbd2"
+      },
+      "lat": "19.303354303407435",
+      "lng": "-90.76200548773768"
+    }
+  ],
+  "imagen": "https://cdn.mexicodestinos.com/tours/tour-a-edzna-san-luis-carpizo-y-punta-xen-princ-min.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e239f25cb3f2e983bbbd3"
+  },
+  "titulo": "Blanca Flor",
+  "significado": "No disponible",
+  "acceso": "La hacienda se encuentra localizada en el municipio de Hecelchakán y a 63 km de la ciudad de Campeche por la carretera 180.",
+  "horario": "No Disponible",
+  "costo_de_acceso": "0",
+  "servicios_cercanos": "Piscina/Spa, Dormitorios, Baños, estacionamiento",
+  "tipo": "haciendas",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e239f25cb3f2e983bbbd4"
+      },
+      "lat": "20.219136730210057",
+      "lng": "-90.11312740389717"
+    }
+  ],
+  "imagen": "https://campeche.travel/wp-content/uploads/2020/05/hacienda_blanca_flor_5-1024x682.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e251d25cb3f2e983bbbd5"
+  },
+  "titulo": "Santa Cruz",
+  "significado": "Hacienda Santa Cruz, data del Siglo XVII ha sido desde monasterio franciscano, hacienda “henequenera” hasta convertirse en un hermoso hotel y locación de eventos con carácter y personalidad propia.",
+  "acceso": "Calle 86 S/N colonia Santa Cruz Palomeque. Merida, Yucatan ",
+  "horario": "No Disponible",
+  "costo_de_acceso": "0",
+  "servicios_cercanos": "Cuenta con un recinto para 1000 a 1200 personas, un jardín dentro del casco antiguo para 90 personas, un Salón de uso múltiple para 60 personas, hospedaje con coste de entre 650 y 850 y otras areas de la Hacienda para otros eventos.",
+  "tipo": "haciendas",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e251d25cb3f2e983bbbd6"
+      },
+      "lat": "20.398059964649168",
+      "lng": "-90.2401692781159"
+    }
+  ],
+  "imagen": "https://foodandtravel.mx/wp-content/uploads/2018/02/FTRA_HACIENDA-SANTA-CRUZ-8.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608e26cb25cb3f2e983bbbd7"
+  },
+  "titulo": "Dzodzil",
+  "significado": "Dzotzil es un poblado al interior de la localidad de Pomuch, ubicándose a 20 minutos en carro y de 45 minutos a una hora en bicicleta. Lo que pocos saben, es que este lugar «secreto», alberga los restos de una Ex Hacienda con un estilo arquitectónico del Siglo XVI  y una comunidad a su alrededor, en su mayoría de lengua maya.",
+  "horario": "No Disponible",
+  "costo_de_acceso": "0",
+  "servicios_cercanos": "No Disponible",
+  "tipo": "haciendas",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e26cb25cb3f2e983bbbd8"
+      },
+      "lat": "20.16770999979691",
+      "lng": "-90.22816909736875"
+    }
+  ],
+  "imagen": "https://web.archive.org/web/20161102235331if_/http://mw2.google.com/mw-panoramio/photos/medium/91089852.jpg",
+  "__v": 0,
+  "acceso": "No Disponible"
+},{
+  "_id": {
+    "$oid": "608e2a4f25cb3f2e983bbbd9"
+  },
+  "titulo": "Faro de isla aguada",
+  "significado": "Desde hace más de un siglo, guía en la Villa de Isla Aguada, un centinela que ha resistido a pesar del paso del tiempo y del olvido. Que formo parte importante de la historia de esta comunidad y que durante muchos años permaneció dormido esperando el momento de resurgir y renacer como el Ave Fénix, para recuperar su lugar, y de nueva cuenta formar parte de la historia de esta pequeña comunidad de pescadores, el FARO ANTIGUO DE ISLA AGUADA.",
+  "horario": "Lunes a domingo de 8:00am a 10:00pm",
+  "costo_de_acceso": "0",
+  "servicios_cercanos": "Museo, Biblioteca, Torre mirador ",
+  "tipo": "faros",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e2a4f25cb3f2e983bbbda"
+      },
+      "lat": "18.7842518732226",
+      "lng": "-91.49293908582787"
+    }
+  ],
+  "imagen": "https://escapadas.mx/wp-content/uploads/2021/02/FARO_ISLA_AGUADA_OK.jpg",
+  "__v": 0,
+  "acceso": "No Disponible"
+},{
+  "_id": {
+    "$oid": "608e2cfc25cb3f2e983bbbdb"
+  },
+  "titulo": "Faro de isla arena",
+  "significado": "El Complejo Turístico y Cultural del faro de Isla Arena abre sus puertas para recibir a turistas tanto nacionales como extranjeros y público en general el día 16 de febrero del 2012. A lo largo de estos años ha recibido a más de 100,000 turistas nacionales y extranjeros. Es un complejo  comprometido con brindar un servicio de calidad a todo  quien lo visita, cuenta con áreas verdes, museo, ciber y biblioteca. Fue un trabajo en coordinación con las autoridades estatales y la Administración Portuaria Integral del Estado.",
+  "horario": "Museo: Martes a sábado 9:00 a.m. a 05:00 p.m./nDomingos 9:00 a.m. a 03:00 p.m./n/nBiblioteca: Lunes a viernes 9:00 a.m. a 3:00 p.m. y de 5:00p.m. a 07:00 p.m./nSábados 9:00 a.m. a 2:00 p.m./n/nCiber: Lunes a viernes 9:00 a.m. a 3:00 p.m. y de 5:00p.m. a 07:00 p.m./nSábados 9:00 a.m. a 2:00 p.m.",
+  "costo_de_acceso": "0",
+  "servicios_cercanos": "Renta de kayaks, Asoleadero, Juegos infantiles. Palapas de descanso (mesas y sillas)Camastros",
+  "tipo": "faros",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608e2cfc25cb3f2e983bbbdc"
+      },
+      "lat": "20.685982949715857",
+      "lng": "-90.4526375234303"
+    }
+  ],
+  "imagen": "http://casadongustavo.hotelsincampeche.com/wp-content/uploads/2013/08/RUTA_DE_FAROS_CAMPECHE.png",
+  "__v": 0,
+  "acceso": "No Disponible"
+},{
+  "_id": {
+    "$oid": "608f53aa68a27e32605216ab"
+  },
+  "titulo": "Becan",
+  "significado": "La existencia de un foso que rodea el área nuclear de Becán determinó su nombre, que en maya yucateco significa “Camino o cavidad dejada por el correr del agua”, nombre que hace referencia al rasgo más notable del sitio: un foso que rodea los principales conjuntos arquitectónicos comprendidos por los edificios más voluminosos y elevados del sitio.”.",
+  "acceso": "Becán se halla justo al norte de la Carretera Federal No. 186, a ocho kilómetros al poniente de Xpuhil. Puede llegarse desde Escárcega (150 km) o bien desde Chetumal (130 km). El viaje desde Campeche abarca un promedio de 300 km.",
+  "horario": "Lunes a domingo de 8 a 17 h.",
+  "costo_de_acceso": "65",
+  "servicios_cercanos": "Unidad de Servicios, venta de publicaciones y reproducciones, sanitarios, estacionamiento, señalización externa y cédulas restrictivas e informativas.",
+  "tipo": "zona_arqueologica",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608f53aa68a27e32605216ac"
+      },
+      "lat": "18.516890121385092",
+      "lng": "-89.46577527116426"
+    }
+  ],
+  "imagen": "https://www.imer.mx/rmi/wp-content/uploads/sites/3/2019/03/Becan96-1024x683.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608f547f68a27e32605216ad"
+  },
+  "titulo": "Chicanna",
+  "significado": "Chicanná significa en maya yucateco “en la casa de la boca de la serpiente” (Chi: boca, Can: serpiente, Ná: casa), nombrado así por su descubridor, el ingeniero Jack Eaton, refiriéndose a la Estructura II, que tiene en su fachada oeste un gran mascarón que representa al Monstruo de la Tierra.",
+  "acceso": "Chicanná se encuentra sobre el kilómetro 141 de la Carretera Federal No. 186, que corre de la ciudad de Escárcega, Campeche a Chetumal, Quintana Roo. La parte central del sitio se localiza a 500 metros al sur del trazo carretero y se accede por medio de un camino de terracería transitable todo el año, hasta donde se encuentra la caseta de acceso del INAH. El visitante puede arribar al sitio por medio del transporte público, sin embargo, este deberá caminar a la entrada del sitio.",
+  "horario": "Lunes a domingo de 8 a 17 h.",
+  "costo_de_acceso": "55",
+  "servicios_cercanos": "Unidad de Servicios, venta de publicaciones y reproducciones, sanitarios, estacionamiento, señalización externa y cédulas restrictivas e informativas.",
+  "tipo": "zona_arqueologica",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608f547f68a27e32605216ae"
+      },
+      "lat": "18.510420589988378",
+      "lng": "-89.48700433833109"
+    }
+  ],
+  "imagen": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/2e/99/55/chicanna.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608f688668a27e32605216b1"
+  },
+  "titulo": "Campamento Tortuguero de Chenkan",
+  "significado": "El Campamento Tortuguero de Chenkan (Pozo de serpientes), cubre actualmente la zona de anidación mas importante de la población anidadora de la Tortuga Carey (Eretmochelys imbricata). \n En Chenkan encontrarás un lugar de esparcimiento cultural donde podrás practicar Ecoturismo, actividades recreativas, educativas y sociales que integran el conocimiento del medio ambiente y su relación con el ser humano. \n Dentro del Campamento recibirás pláticas con temas acerca de la biología de las tortugas marinas, las actividades de protección que se realizan en el campamento tortuguero, las precauciones que se deben de tomar en los recorridos y el trabajo de conservación que realiza el personal del área. \n Asimismo, tendrás la oportunidad de realizar recorridos nocturnos para observar a las tortugas en el cumplimiento de su ciclo vital.",
+  "acceso": "Se localiza a 55 km al sureste de la ciudad de Campeche. Se puede llegar por las Carreteras Federales 180 y 261; desde Champotón vía Haltunchén y Hool, y proseguir hacia el oriente; o desde Campeche pasando por Chiná, Pocyaxum, Nohacal y Tixmucuy. Si se viaja desde el sur de Yucatán, habrá que desviarse en el poblado de Cayal. El visitante puede arribar al sitio por medio del transporte público desde Campeche, sin embargo, este deberá caminar unos 300 metros a la entrada del sitio",
+  "horario": "Lunes a domingo de 8 a 17 h.",
+  "costo_de_acceso": "0",
+  "servicios_cercanos": "Sanitarios, estacionamiento, guía, señalización externa y cédulas restrictivas e informativas.",
+  "tipo": "atraccion_turistica",
+  "ubicacion": [
+    {
+      "_id": {
+        "$oid": "608f688668a27e32605216b2"
+      },
+      "lat": "19.16552772201188",
+      "lng": "-90.92216784945178"
+    }
+  ],
+  "imagen": "https://yumkaax.uacam.mx/view/view_image?imagen=5/DSC05410.JPG&tipo=paginas",
+  "__v": 0
+}]

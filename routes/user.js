@@ -3,8 +3,8 @@ const router = express.Router();
 const User = require('../models/User');
 const auth = require('../middleware/verifyToken');
 
-router.get('/', async(req,res) => {
-    res.json({message:"a"});
+router.get('/',auth, async(req,res) => {
+    res.json({message:"User_Search API Endpoint"});
 });
 
 router.get('/:token', auth, async (req,res) =>{
@@ -22,7 +22,7 @@ router.get('/:token', auth, async (req,res) =>{
     }catch(err){
         res.status(404);
         res.json({
-            message: "Not found?"
+            message: err
         });
     }
 });
